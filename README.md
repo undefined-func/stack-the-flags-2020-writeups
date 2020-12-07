@@ -18,3 +18,4 @@ There will be 11 challenge categories:
 
 ## My Team
 My team, NYCP, participated in Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education and achieved a rank of 14 out of 53.
+![scoreboard](Screenshot 2020-12-07 at 10.10.24 AM.png)
