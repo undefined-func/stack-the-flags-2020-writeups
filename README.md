@@ -19,3 +19,8 @@ There will be 11 challenge categories:
 ## My Team
 My team, NYCP, participated in Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education and achieved a rank of 14 out of 53.
 ![scoreboard](https://github.com/undefined-func/stack-the-flags-2020-writeups/blob/main/Screenshot%202020-12-07%20at%2010.10.24%20AM.png)
+
+Teammates:
+- @hackin7
+- @codekrodile
+- @bobjohnjones
