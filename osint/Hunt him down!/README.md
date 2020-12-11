@@ -63,4 +63,4 @@ A search on his email address from the DNS record brings up his [LinkedIn profil
 This gives us his full name `Lionel Cheng Xiang Yi`.
 
 ## FLAG
-`govtech-csg{LionelChengXiangYi_963672918_018935}`
+`govtech-csg{LionelChengXiangYi-963672918-018935}`
