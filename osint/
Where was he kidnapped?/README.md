@@ -30,3 +30,17 @@ We verified that the MRT is indeed `Yishun`.
 We then trace the bus route of bus 117 towards Punggol Int using Google Street View and the bus route hyperlinked above. From this we are trying to identify a similar architecture of the bus stop as in `video-2.mp4`.
 
 We find this at bus stop `59501 Block 871`.
+
+![gsw2](Images/gsw2.png)
+![vid2](Images/vid2.png)
+
+
+We then look through (again, using Google Street View) the vicinity of block 871 for a similar place to `video-3.mp4`. We are mainly looking at the garden in the background, the round table and bench, and the floor tiles.
+
+We find this at nearby `block 870`.
+
+![gsw3](Images/gsw3.png)
+![vid3](Images/vid3.png)
+
+## FLAG
+`govtech-csg{760870}`
