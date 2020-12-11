@@ -87,6 +87,8 @@ Alternatively, we can look up the place on [Google Street View](https://www.goog
 
 We can see from the compass that the camera is directed towards the West. From the direction of the shadow in the picture, we can tell it is taken in the afternoon. From the angle of the shadow, we can estimate that it was at around `3 - 5 pm`.
 
+Another method which does not require much guessing or brute force is using Google Earth Pro, which allows one to adjust the position of the Sun based on the time and view the corresponding sun rays.
+
 ## FLAG
 `govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}`
 
