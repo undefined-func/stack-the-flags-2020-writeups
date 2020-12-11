@@ -25,9 +25,9 @@ Addendum:
 - The amount of decimal places required is the same as shown in the example given.
 - CLI tool to get something before you convert it with the calculator.
 
-Notes:
-- Hints are attached at the end of this writeup.
-- This challenge was solved after the competition.
+_Notes:_
+- _Hints are attached at the end of this writeup._
+- _This challenge was solved after the competition._
 
 ## WRITEUP
 In this challenge, we need to obtain 3 pieces of information from the image given below - GPS coordinates, Date taken and Time taken.
