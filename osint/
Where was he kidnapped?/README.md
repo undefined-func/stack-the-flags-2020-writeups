@@ -46,4 +46,4 @@ We find this at nearby `block 870`.
 `govtech-csg{760870}`
 
 ## ACKNOWLEDGEMENT
-This writeup contains a lot of content from my friend @codekrodile.
+This writeup contains a lot of content from my friend @[codekrodile](https://github.com/codekrodile)
