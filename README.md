@@ -21,6 +21,6 @@ My team, NYCP, participated in Category 3 - Junior Colleges, Integrated Programm
 ![scoreboard](https://github.com/undefined-func/stack-the-flags-2020-writeups/blob/main/Screenshot%202020-12-07%20at%2010.10.24%20AM.png)
 
 Teammates:
-- @[hackin7](github.com/hackin7)
-- @[codekrodile](github.com/codekrodile)
-- @[bobjohnjones](github.com/bobjohnjones)
+- @[hackin7](https://github.com/hackin7)
+- @[codekrodile](https://github.com/codekrodile)
+- @[bobjohnjones](https://github.com/bobjohnjones)
