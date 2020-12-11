@@ -54,7 +54,11 @@ Both locations are quite near Lau Pa Sat, so both locations are possible. Howeve
 
 From his [Carousell](https://www.carousell.sg/lionelcxy/) account, we can get his phone number `963672918` from his [listing](https://sg.carousell.com/p/1045623891) below. We can also confirm that the postal code we obtained is correct as City Hall MRT is quite close to MarinaOne.
 
+![carousell](Images/IMG_5763.png)
+
 A search on his email address from the DNS record brings up his [LinkedIn profile](https://www.linkedin.com/in/cheng-xiang-yi-0a4b891b9/).
+
+![linkedin](Images/linkedin.png)
 
 This gives us his full name `Lionel Cheng Xiang Yi`.
 
