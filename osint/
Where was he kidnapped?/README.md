@@ -44,3 +44,6 @@ We find this at nearby `block 870`.
 
 ## FLAG
 `govtech-csg{760870}`
+
+## ACKNOWLEDGEMENT
+This writeup contains a lot of content from my friend @codekrodile.
